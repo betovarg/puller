@@ -1,0 +1,103 @@
+.banner-head{
+	background: url(../img/banner-head.jpg);
+	text-align: center;
+}
+
+.first-row{
+	margin: 5%;
+}
+ul{
+	background-color: #2B2B2B;
+	height: 100px;
+	width: 100%;
+	margin: 0%;
+	list-style: none;
+}
+ul a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+ul li{
+	padding: 0 5rem 0.5rem;
+	display: inline-block;
+	float: left;
+	margin: 2%;
+}
+
+.banner-head h3{
+	color: #fff;
+}
+
+#content{
+	margin-top: 8%;
+}
+.col-md-6 p{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.col-md-6 h2{
+	margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+.col-md-8 {
+	background-color: #F0F0F0;
+}
+.col-md-8{
+	float: right;
+
+}
+.col-md-8 img{	
+	float: left;
+}
+
+#btn-conoce-mas{
+	border-color: white;
+	border-radius: 4%;
+	margin: 2%;
+	background-color: transparent;
+	padding: 1%;
+	border-width: medium;
+	border-style: solid;
+}
+
+.banner-head h1{
+	color: #fff;
+}
+
+#content{
+	text-align: center;
+}
+
+.bottom-foot{
+	background-color: #2B2B2B;
+	padding: 5%;
+}
+.bottom-foot a{
+	color: white;
+	padding: 5%;
+	margin: 3%;
+}
+.bottom-foot nav{
+	padding: 10%;
+}
+
+.logo{
+  float: left;
+  height: 100px;
+  padding: 0% 2%;
+  font-size: 18px;
+  line-height: 20px;
+  background-color: #1B8ABE;
+  position: center;
+}
